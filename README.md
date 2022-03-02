@@ -2,6 +2,12 @@
 
 
 Nvidia Jetson Nano
+plugin faac
+
+gst-inspect로 검색해서 하는 방법과, 인터넷으로 API 문서를 보고 하는 방법이 있다
+
+
+
 
 
 //jpg
