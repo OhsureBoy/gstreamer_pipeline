@@ -5,6 +5,12 @@ Nvidia Jetson Nano plugin faac
 
 gst-inspect로 검색해서 하는 방법과, 인터넷으로 API 문서를 보고 하는 방법이 있다. 실제 제품의 소스코드를 다 올릴 수 없어 스스로 기억용으로 남기기
 
+
+
+GPIO / cJASON / C / python / python /  REST API / cURL /gstreamer / SPI 통신
+
+
+
 //jpg gst-launch-1.0 -e --gst-debug=**:4 v4l2src device=/dev/video0
 ! "video/x-raw,format=(string)UYVY, width=1920, height=1080"
 ! videoscale
