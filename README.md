@@ -2,8 +2,9 @@
 
 
 Nvidia Jetson Nano plugin faac
+cUrl, Json C Language
 
-gst-inspect로 검색해서 하는 방법과, 인터넷으로 API 문서를 보고 하는 방법이 있다. 실제 제품의 소스코드를 다 올릴 수 없어 스스로 기억용으로 남기기
+gst-inspect로 검색해서 하는 방법과, 인터넷으로 API 문서를 보고 하는 방법이 있다. 기억용으로 남기기
 
 
 
