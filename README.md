@@ -9,7 +9,7 @@ gst-inspect로 검색해서 하는 방법과, 인터넷으로 API 문서를 보�
 <br>
 <br>
 
-GPIO / cJASON / C / python / python /  REST API / cURL /gstreamer / SPI 통신
+GPIO / cJASON / C / python / python /  REST API / cURL /gstreamer / SPI 통신<br>
 아래 파이프 라인은 receiver.c 에 있다
 
 <br>
