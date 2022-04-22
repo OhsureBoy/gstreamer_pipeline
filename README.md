@@ -13,6 +13,8 @@ GPIO / cJASON / C / python / python /  REST API / cURL /gstreamer / SPI 통신<b
 아래 파이프 라인은 receiver.c 에 있다
 
 <br>
+Gstreamer 수정중
+<br>
 <br>
 
 
